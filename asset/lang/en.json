@@ -1,0 +1,28 @@
+{
+"discover":"Discover",
+  "the": "The",
+  "world": "World",
+  "login": "Login",
+  "signup": "Signup",
+  "or": "Or",
+  "welcome back": "Welcome Back",
+  "login to your account": "Login to your account",
+  "email": "Email Address",
+  "password": "Password",
+  "didn't have an account?": "didn't have an account?  ",
+  "forget password": "forget password?",
+  "Travel Easier": "Travel Easier",
+  "With us": "With Us",
+  "Register": "Register",
+  "create your new account": "Create your new account",
+  "full name": "Full Name",
+  "phone number": "Phone Number",
+  "Confirm password":"Confirm Password",
+  "already have an account": "already have an account?  ",
+  "this field must be filled": "this field must be filled",
+  "the password entered isn't the same":"the password entered isn't the same",
+  "the input must be a name": "the input must be a name",
+  "the input must be an email": "the input must be an email",
+  "the password must be more than 8 characters": "the password must be more than 8 characters"
+
+}
